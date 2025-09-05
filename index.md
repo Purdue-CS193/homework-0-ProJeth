@@ -17,9 +17,10 @@ Syntax highlighted code block
 
 - easy class
 - fun to learn
+- nice TAs
+- 
 
-1. nice TAs
-2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
